@@ -1,30 +1,17 @@
 {
-  "version": "2.1.0",
-  "release_date": "2025-10-21",
-  "description": "QuizHelper Extension Update - Fixed Update System",
+  "version": "2.1.7",
+  "release_date": "2025-10-22",
+  "description": "QuizHelper Extension Update - Auto-updated to v2.1.7",
   "changelog": [
-    "Auto-updated package: QuizHelper-Extension-v2.1.0-20251021_164640.zip",
-    "Auto-updated package: QuizHelper-Extension-v2.1.0-20251021_164614.zip",
-    "Fixed JSON parsing errors in update system",
-    "Added proper GitHub repository integration",
-    "Improved error handling and logging",
-    "Added comprehensive update checking",
-    "Fixed variable naming conflicts",
-    "Resolved undefined property errors"
+    "Auto-updated extension files",
+    "Latest bug fixes and improvements",
+    "Updated page detection logic"
   ],
   "resources": {
     "extension": {
       "url": "https://raw.githubusercontent.com/morgrum/moodle-extension-updates/main/QuizHelper-Extension-Latest.zip",
-      "size": 813488,
-      "checksum": "sha256:acd98cba372bf49cd57c69e5256f94ce662d9272d116effb8871e2b6d5a70bb1"
-    },
-    "processor": {
-      "url": "https://raw.githubusercontent.com/morgrum/moodle-extension-updates/main/MoodleResourceProcessor.py",
-      "version": "1.0.0"
-    },
-    "batch_file": {
-      "url": "https://raw.githubusercontent.com/morgrum/moodle-extension-updates/main/run_processor.bat",
-      "version": "1.0.0"
+      "size": 33154,
+      "checksum": "sha256:PLACEHOLDER_CHECKSUM"
     }
   },
   "min_version": "2.0.0",
