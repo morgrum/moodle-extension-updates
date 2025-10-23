@@ -1,7 +1,7 @@
 {
-  "version": "2.2.34",
+  "version": "2.2.35",
   "release_date": "2025-10-23",
-  "description": "QuizHelper Extension Update - Auto-updated to v2.2.34",
+  "description": "QuizHelper Extension Update - Auto-updated to v2.2.35",
   "changelog": [
     "Auto-updated extension files",
     "Latest bug fixes and improvements",
@@ -10,7 +10,7 @@
   "resources": {
     "extension": {
       "url": "https://raw.githubusercontent.com/morgrum/moodle-extension-updates/main/QuizHelper-Extension-Latest.zip",
-      "size": 39515,
+      "size": 39513,
       "checksum": "sha256:PLACEHOLDER_CHECKSUM"
     }
   },
